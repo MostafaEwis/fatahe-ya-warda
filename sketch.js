@@ -4,7 +4,7 @@ let wardas = [];
 let bigWardaR;
 let wardasCount = 400;
 let w = 0;
-
+//fixed comment
 function setup() {
   createCanvas(700, 700);
   Warda.maxR = width / 16;
